@@ -1,4 +1,4 @@
-update=ven. 12 janv. 2018 23:14:02 CET
+update=ven. 19 janv. 2018 10:14:02 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -133,3 +133,5 @@ LibName101=/home/ngonzalez/kicad/kicad-library/library/Xicor
 LibName102=/home/ngonzalez/kicad/kicad-library/library/xilinx
 LibName103=/home/ngonzalez/kicad/kicad-library/library/zetex
 LibName104=/home/ngonzalez/kicad/kicad-library/library/Zilog
+LibName105=ina226
+LibName106=tps61096a
